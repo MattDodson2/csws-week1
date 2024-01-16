@@ -1,2 +1,2 @@
 # csws-week1
-Description.
+week1.py file contains "Helo World" code
